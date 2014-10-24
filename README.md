@@ -1,4 +1,27 @@
-node_playground
-===============
+# hapi
 
-A project for trying out different tutorials of node js and relevant frameworks
+playground app for testing out hapi
+
+## Getting Started
+Install the module with: `npm install hapi`
+
+```javascript
+var hapi = require('hapi');
+hapi.awesome(); // "awesome"
+```
+
+## Documentation
+_(Coming soon)_
+
+## Examples
+_(Coming soon)_
+
+## Contributing
+In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
+
+## Release History
+_(Nothing yet)_
+
+## License
+Copyright (c) 2014 Eric Ma  
+Licensed under the MIT license.
