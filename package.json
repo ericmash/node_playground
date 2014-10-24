@@ -36,6 +36,8 @@
   "keywords": [],
   "dependencies": {
     "hapi": "^7.1.0",
-    "good": "^3.1.0"
+    "good": "^3.1.0",
+    "bcrypt": "^0.8.0",
+    "hapi-auth-basic": "^1.1.1"
   }
 }
