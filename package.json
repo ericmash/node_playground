@@ -33,5 +33,9 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.5"
   },
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "hapi": "^7.1.0",
+    "good": "^3.1.0"
+  }
 }
